@@ -1,0 +1,14 @@
+.venv
+.venv*
+build/
+*.egg
+*.egg-info
+wav/
+src/__pycache__/
+__pycache__/
+*.parquet
+.aws-config
+temp.py
+.DS_Store
+Icon?
+Icon[[:cntrl:]]
